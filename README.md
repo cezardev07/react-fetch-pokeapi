@@ -1,6 +1,6 @@
 # 👨‍💻 Layout card page web 👇
 
-<a href="./src/assets/bg-readme.png"><img src="src/img/img_form.jpeg" alt="img_projeto"></a>
+<a href="https://github.com/cezardev07/react-fetch-pokeapi/blob/main/src/assets/bg-readme.png?raw=true"><img src="./src/assets/bg-readme.png " alt="img_projeto"></a>
 
 # Getting Started with Create React App
 
